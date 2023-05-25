@@ -17,6 +17,7 @@ The original extension seems to have been removed from the Chrome Web Store, pro
 
 - Download repository .zip file: https://github.com/veredis/Adjust-Video-Brightness/archive/refs/heads/master.zip
 - Extract to folder
+- (Optional) Move extracted folder to a directory of your choosing
 - Go to chrome://extensions
 - Turn on Developer Mode (top right)
 - Click Load Unpacked (top left)
