@@ -22,3 +22,4 @@ The original extension seems to have been removed from the Chrome Web Store, pro
 - Turn on Developer Mode (top right)
 - Click Load Unpacked (top left)
 - Select extracted folder
+- (Optional) Limit extension permissions to certain sites
